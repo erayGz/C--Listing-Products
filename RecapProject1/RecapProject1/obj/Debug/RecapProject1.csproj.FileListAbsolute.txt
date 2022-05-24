@@ -1,0 +1,16 @@
+C:\Users\acer\OneDrive\Masaüstü\Udemy\BTK_CS\RecapProject1\RecapProject1\bin\Debug\RecapProject1.exe.config
+C:\Users\acer\OneDrive\Masaüstü\Udemy\BTK_CS\RecapProject1\RecapProject1\bin\Debug\RecapProject1.exe
+C:\Users\acer\OneDrive\Masaüstü\Udemy\BTK_CS\RecapProject1\RecapProject1\bin\Debug\RecapProject1.pdb
+C:\Users\acer\OneDrive\Masaüstü\Udemy\BTK_CS\RecapProject1\RecapProject1\bin\Debug\EntityFramework.dll
+C:\Users\acer\OneDrive\Masaüstü\Udemy\BTK_CS\RecapProject1\RecapProject1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\acer\OneDrive\Masaüstü\Udemy\BTK_CS\RecapProject1\RecapProject1\bin\Debug\EntityFramework.xml
+C:\Users\acer\OneDrive\Masaüstü\Udemy\BTK_CS\RecapProject1\RecapProject1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\acer\OneDrive\Masaüstü\Udemy\BTK_CS\RecapProject1\RecapProject1\obj\Debug\RecapProject1.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Masaüstü\Udemy\BTK_CS\RecapProject1\RecapProject1\obj\Debug\RecapProject1.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\OneDrive\Masaüstü\Udemy\BTK_CS\RecapProject1\RecapProject1\obj\Debug\RecapProject1.Form1.resources
+C:\Users\acer\OneDrive\Masaüstü\Udemy\BTK_CS\RecapProject1\RecapProject1\obj\Debug\RecapProject1.Properties.Resources.resources
+C:\Users\acer\OneDrive\Masaüstü\Udemy\BTK_CS\RecapProject1\RecapProject1\obj\Debug\RecapProject1.csproj.GenerateResource.cache
+C:\Users\acer\OneDrive\Masaüstü\Udemy\BTK_CS\RecapProject1\RecapProject1\obj\Debug\RecapProject1.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Masaüstü\Udemy\BTK_CS\RecapProject1\RecapProject1\obj\Debug\RecapProject1.csproj.CopyComplete
+C:\Users\acer\OneDrive\Masaüstü\Udemy\BTK_CS\RecapProject1\RecapProject1\obj\Debug\RecapProject1.exe
+C:\Users\acer\OneDrive\Masaüstü\Udemy\BTK_CS\RecapProject1\RecapProject1\obj\Debug\RecapProject1.pdb
